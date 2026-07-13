@@ -103,7 +103,7 @@ As relações são gerenciadas por chaves estrangeiras no banco, com exclusão e
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/ofcc-docker.git
+git clone
 cd ofcc-docker
 
 # Suba todos os serviços
